@@ -49,7 +49,7 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 ### 📫 Get in Touch
 - 📧 Email:  
 - 🔗 LinkedIn:
-- 🧑‍🔬 Research Page: [github.com/dunglemanh]
+- 🧑‍🔬 Research Page: [github.com/dunglemanh](#)
 
 ---
 
