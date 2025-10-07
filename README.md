@@ -3,7 +3,7 @@
 <h3 align="center">Independent Researcher | Physics-Informed AI | IoT & Digital Twin</h3>
 
 ---
-:dependabot: About Me
+### :dependabot: About Me
 I’m an independent researcher exploring the intersection of **Physics, Artificial Intelligence, and Simulation** - teaching machines to **understand and obey the laws of physics**.
 
 My work combines **physical modeling** and **deep learning** to create hybrid systems that can simulate, predict, and control real-world phenomena from **IoT sensing** and **embedded systems**, to **scientific computing** and **digital twins**.
@@ -18,7 +18,15 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 - 🧩 **Data-driven Physics & Control Systems**
 
 ---
+<h4 align="center"> :atom: "Teaching machines to understand physics, we understand the life better." 🔭</h4>
+<details>
+<summary>More about my work</summary>
+  
+### 🚀 Current Focus
+> **Developing **hybrid AI models** that integrate physics-based constraints**  
+> **To improve robustness, interpretability, and efficiency in real-world environments**.
 
+---  
 ### ⚙️ Tools & Frameworks
 | Domain | Tools / Frameworks |
 |--------|--------------------|
@@ -27,12 +35,6 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 | **Embedded / IoT** | ESP32 · STM32 · Arduino · TinyML |
 | **Programming** | Python · C/C++ · MATLAB · Bash |
 | **Version Control** | Git · GitHub · Git LFS |
-
----
-
-### 🚀 Current Focus
-> **Developing **hybrid AI models** that integrate physics-based constraints**  
-> **to improve robustness, interpretability, and efficiency in real-world environments**.
 
 ---
 
@@ -49,7 +51,4 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 - 📧 Email:  
 - 🔗 LinkedIn:
 - 🧑‍🔬 Research Page: [github.com/dunglemanh](#)
-
----
-
-<h4 align="center"> :atom: "Teaching machines to understand physics, we understand the life better." 🔭</h4>
+</details>
