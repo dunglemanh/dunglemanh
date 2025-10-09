@@ -2,13 +2,11 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Dung&repeat=false" alt="Typing SVG" /> </h1>
 <h3 align="center">Independent Researcher | Physics-Informed AI | IoT & Digital Twin</h3>
 
----
 ### :dependabot: About Me
 I’m an independent researcher exploring the intersection of **Physics, Artificial Intelligence, and Simulation** - teaching machines to **understand and obey the laws of physics**.
 
 My work combines **physical modeling** and **deep learning** to create hybrid systems that can simulate, predict, and control real-world phenomena from **IoT sensing** and **embedded systems**, to **scientific computing** and **digital twins**.
 
----
 
 ### 🔬 Research Interests
 - :electron: **Physics-Informed Neural Networks (PINNs)**  
@@ -17,7 +15,6 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 - :robot: **Digital Twin Simulation**  
 - 🧩 **Data-driven Physics & Control Systems**
 
----
 <h4 align="center"> :atom: "Teaching machines to understand physics, we understand the life better." 🔭</h4>
 <details>
 <summary>More about my work</summary>
@@ -26,7 +23,6 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 > **Developing **hybrid AI models** that integrate physics-based constraints**  
 > **To improve robustness, interpretability, and efficiency in real-world environments**.
 
----  
 ### ⚙️ Tools & Frameworks
 | Domain | Tools / Frameworks |
 |--------|--------------------|
@@ -36,7 +32,6 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 | **Programming** | Python · C/C++ · MATLAB · Bash |
 | **Version Control** | Git · GitHub · Git LFS |
 
----
 
 ### 📚 Featured Projects
 🔹 [**PINN-HeatSimulation**](#) — Physics-informed neural network solving the heat equation in IoT sensors  
@@ -45,7 +40,6 @@ My work combines **physical modeling** and **deep learning** to create hybrid sy
 
 <!--(Replace “#” with your real repo links once you upload your projects!)-->
 
----
 
 ### 📫 Get in Touch
 - 📧 Email:  
